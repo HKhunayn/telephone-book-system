@@ -1,6 +1,6 @@
 # telephone-book-system
 A telephone book system, also known as a telephone directory, telephone address book, or Phone book, is a listing of telephone subscribers in a geographical area or subscribers to services provided by the organization that publishes the directory. Its purpose is to allow the telephone number of a subscriber identified by name and address to be found.
-its a small university Lab-project that focus on how to implementing user-defined linked List.
+its a small university Lab-project that focus on how to implementing user-defined linked List using java.
 
 
 ## Some features
